@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './third.css',
 })
 export class Third {
-
+name = 'terzo';
 }
